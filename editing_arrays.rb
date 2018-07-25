@@ -10,6 +10,8 @@ def change_rainbow_colors
     RAINBOW_COLORS[2]="light_yellow"
 end
 
+puts "Array before calling change_rainbow_colors"
+
 change_rainbow_colors
 
 # def add_colors
