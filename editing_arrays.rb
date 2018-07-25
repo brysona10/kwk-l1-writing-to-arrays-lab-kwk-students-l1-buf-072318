@@ -11,13 +11,13 @@ def change_rainbow_colors
     RAINBOW_COLORS
 end
 
-puts "Array before calling change_rainbow_colors"
-puts RAINBOW_COLORS
+# puts "Array before calling change_rainbow_colors"
+# puts RAINBOW_COLORS
 
 change_rainbow_colors
 
-puts"Array after calling change_rainbow_colors"
-puts RAINBOW_COLORS
+# puts"Array after calling change_rainbow_colors"
+# puts RAINBOW_COLORS
 
 # def add_colors
 #   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
