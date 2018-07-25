@@ -15,7 +15,7 @@ puts RAINBOW_COLORS
 
 change_rainbow_colors
 
-"Array after calling change_rainbow_colors"
+puts"Array after calling change_rainbow_colors"
 puts RAINBOW_COLORS
 
 # def add_colors
