@@ -11,6 +11,7 @@ def change_rainbow_colors
 end
 
 puts "Array before calling change_rainbow_colors"
+puts RAINBOW_COLORS
 
 change_rainbow_colors
 
